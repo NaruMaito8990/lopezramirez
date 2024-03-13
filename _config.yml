@@ -3,8 +3,8 @@ title: Juan Ignacio López Ramírez
 description: >
  Psychologisy
 
-baseurl: "/loperzamirez" # the subpath of your site, e.g. /blog/
-url: "https://narumaito8990.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 author:
   fullname: Juan Ignacio López Ramírez  
