@@ -7,9 +7,8 @@ baseurl: "https://narumaito8990.github.io/lopezramirez" # the subpath of your si
 url: "" # the base hostname & protocol for your site
 
 author:
-  fullname: Juan Ignacio López Ramírez  
-  github: github
-  linkedin: linkedin
+  fullname: Juan Ignacio López Ramírez 
+  linkedin: https://www.linkedin.com/in/jignaciol/
   email: ji.lopezramirez8990@gmail.com
 
 
