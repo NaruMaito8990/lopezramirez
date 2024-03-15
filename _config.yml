@@ -1,9 +1,9 @@
 # Site settings
 title: Juan Ignacio López Ramírez
 description: >
- Psychologisy
+ Psychologist
 
-baseurl: "https://narumaito8990.github.io/" # the subpath of your site, e.g. /blog/
+baseurl: "https://narumaito8990.github.io/lopezramirez" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 author:
