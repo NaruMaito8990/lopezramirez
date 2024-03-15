@@ -1,5 +1,5 @@
 # Site settings
-title: Juan Ignacio López Ramírez
+title: Hola!
 description: >
  Psychologist
 
@@ -9,6 +9,7 @@ url: "" # the base hostname & protocol for your site
 author:
   fullname: Juan Ignacio López Ramírez 
   linkedin: jignaciol
+  github: narumaito8990
   email: ji.lopezramirez8990@gmail.com
 
 
