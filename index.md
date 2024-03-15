@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>I'm just Ken</p>
-	<p>Where i see love, you see a <strong> FRIEND </a> </strong></p>
+	<p>Welcome! I'm a clinical psychologist and Ph.D. student at UCA, Argentina, currently conducting research at the Waseda University Personality Lab in Tokyo, Japan. </p>
+	<p>Research interests: Dark Triad; Personality; Serious gaming; Aversive behaviors; ADHD; Sports Psychology</p>
 </div>
