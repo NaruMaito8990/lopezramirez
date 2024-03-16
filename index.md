@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Hola!
 subtitle: Juan Ignacio López Ramírez
 sitemap:
   priority: 0.9
