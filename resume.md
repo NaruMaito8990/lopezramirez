@@ -17,7 +17,7 @@ de Pensamiento Dicotómico (DTI) en español. Accepted for publication, expected
 2024.
 
 **Fortaleza mental e intolerancia a la
-incertidumbre en una muestra defutbolistas profesionales argentinos**
+incertidumbre en una muestra defutbolistas profesionales argentinos**</br>
 López, J.I., Sánchez, R.A., & Caino-Gonzalez, P.C. (2024). Fortaleza mental e intolerancia a la
 incertidumbre en una muestra defutbolistas profesionales argentinos. Acta Psiquiatrica y Psicologica de
 América Latina. Accepted for publication, expected publication date: April 2024.
