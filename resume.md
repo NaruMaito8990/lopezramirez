@@ -10,29 +10,18 @@ subtitle: An awesome person
 ```Personality; Dark Personalities; Serious gaming; Aversive behaviors; ADHD; Sports Psychology``` 
 
 ### Featured research
-**Propiedades Psicométricas del Inventario
-de Pensamiento Dicotómico (DTI) en español**
 
 Lopez, J.I., Resett, S., Caino-Gonzalez, P.C., & Oshio, A. (2024). Propiedades Psicométricas del Inventario
 de Pensamiento Dicotómico (DTI) en español. Accepted for publication, expected publication date: April
 2024.
 
-**Fortaleza mental e intolerancia a la
-incertidumbre en una muestra defutbolistas profesionales argentinos**
-
 López, J.I., Sánchez, R.A., & Caino-Gonzalez, P.C. (2024). Fortaleza mental e intolerancia a la
 incertidumbre en una muestra defutbolistas profesionales argentinos. Acta Psiquiatrica y Psicologica de
 América Latina. Accepted for publication, expected publication date: April 2024.
 
-**I Really Am More Important than You: The Relationship
-between the Dark Triad, Cognitive Ability, and Social Value Orientations in a Sample of Japanese Adults**
-
 Lopez, J.I., Shimotsukasa, T. & Oshio, A.(2023). I Really Am More Important than You: The Relationship
 between the Dark Triad, Cognitive Ability, and Social Value Orientations in a Sample of Japanese Adults.
 Social Sciences & Humanities Open, Volume 8, Issue 1. https://doi.org/10.1016/j.ssaho.2023.100716
-
-**El cuestionario sobre mitos de violación: propiedades
-psicométricas, psicopatía y autoestima**
 
 Caino, P., Resett, S., Lopez, J. I. y Bossi, F. (2022). El cuestionario sobre mitos de violación: propiedades
 psicométricas, psicopatía y autoestima. Revista Ecuatoriana de Psicología.
