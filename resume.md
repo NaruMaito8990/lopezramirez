@@ -10,12 +10,11 @@ subtitle: Research
 ### Featured research
 
 Lopez, J.I., Resett, S., Caino-Gonzalez, P.C., & Oshio, A. (2024). Propiedades Psicométricas del Inventario
-de Pensamiento Dicotómico (DTI) en español. Accepted for publication, expected publication date: April
-2024.
+de Pensamiento Dicotómico (DTI) en español.
 
 López, J.I., Sánchez, R.A., & Caino-Gonzalez, P.C. (2024). Fortaleza mental e intolerancia a la
 incertidumbre en una muestra defutbolistas profesionales argentinos. Acta Psiquiatrica y Psicologica de
-América Latina. Accepted for publication, expected publication date: April 2024.
+América Latina, 70(1) 4-10.
 
 Lopez, J.I., Shimotsukasa, T. & Oshio, A.(2023). I Really Am More Important than You: The Relationship
 between the Dark Triad, Cognitive Ability, and Social Value Orientations in a Sample of Japanese Adults.
