@@ -3,8 +3,6 @@ layout: page
 title: Publications
 subtitle: ***
 ---
-
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"></a> </span>
 <br>
 ### Research interests 
 ```Personality; Dark Personalities; Serious gaming; Aversive behaviors; ADHD; Sports Psychology``` 
