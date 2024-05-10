@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Publications
+subtitle: Research
 ---
 
 ### Research interests 
