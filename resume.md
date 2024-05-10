@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: ***
+subtitle: Publications
 ---
-<br>
+
 ### Research interests 
 ```Personality; Dark Personalities; Serious gaming; Aversive behaviors; ADHD; Sports Psychology``` 
 
