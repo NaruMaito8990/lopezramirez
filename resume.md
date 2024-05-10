@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: -
+subtitle: ***
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"></a> </span>
