@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hola!
-subtitle: Juan Ignacio López Ramírez
+title: Juan Ignacio López Ramírez
+subtitle: Clinical sports psychologists, Assitant professor
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Clinical psychologist and Ph.D. student at UCA, Argentina. Founder of コトラ Games.</p>
-	<p>Research interests: Personality; Serious gaming; Aversive behaviors; ADHD; Sports Psychology</p>
+	<p>Clinical sports psychologists and Assistant professor at UADE, Argentina. Founder of コトラ Games.</p>
+	<p>Research interests: Dark Personalities; Serious gaming; Aversive behaviors; Sports Psychology</p>
 </div>
